@@ -16,7 +16,7 @@ permissions:
 
 env:
   REGISTRY: public.ecr.aws/y8l1o1z1
-  IMAGE_NAME: slamtec_lidar
+  IMAGE_NAME: slamtec-lidar
 
 jobs:
   image-builder:
